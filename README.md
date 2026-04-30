@@ -16,8 +16,8 @@
 ---
 
 ## 🛠️ スキル
-- HTML / CSS / JavaScript  
-- React（学習中）  
+- HTML / CSS
+- JavaScript  
 - Git / GitHub  
 
 ---
@@ -25,7 +25,6 @@
 ## 📚 学習中
 - Vue.js（授業で学習予定）
 - JavaScript（応用・理解の深化）
-- コンポーネント設計 / 状態管理
 
 ---
 
