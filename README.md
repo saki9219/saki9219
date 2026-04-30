@@ -82,3 +82,7 @@
 ---
 
 ⭐️ GitHub: https://github.com/saki9219
+
+---
+
+よろしくお願いいたします！
